@@ -5,3 +5,5 @@
 # "storybook" : "start-storybook -p 6006 -c .storybook"
 #npm run storybook
 #yarn add -D @storybook/addons storybook-addon-jsx
+#add info package by command below
+#yarn add -D @storybook/addon-info
