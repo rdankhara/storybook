@@ -7,3 +7,5 @@
 #yarn add -D @storybook/addons storybook-addon-jsx
 #add info package by command below
 #yarn add -D @storybook/addon-info
+#import withInfo from 
+#added default props

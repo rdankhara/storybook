@@ -9,4 +9,9 @@ Button.propTypes = {
     bg: PropTypes.string.isRequired,
     children : PropTypes.element.isRequired
 }
+
+Button.defaultProps = {
+    bg: 'red',
+    children : 'hello red button'
+}
 export default Button;
